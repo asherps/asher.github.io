@@ -22,9 +22,9 @@ repository               : "asherps/asherps.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Socials"
+  name             : "Asher"
   pronouns         : # example: "she/her"  
-  bio              : "Some poorly-maintained forms of social media (:"
+  bio              : "Some poorly-maintained social medias (:"
   location         : "Cambridge, MA"
   employer         : "MIT"
   uri              : # URL
